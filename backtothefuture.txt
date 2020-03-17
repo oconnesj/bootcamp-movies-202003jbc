@@ -13,3 +13,9 @@ Budget:$19,000,000 (estimated)
 Opening Weekend USA: $11,152,500, 7 July 1985
 Gross USA: $211,159,762
 Cumulative Worldwide Gross: $388,355,305
+
+Technical Specs
+Runtime: 116 min
+Sound Mix: 70 mm 6-Track (70 mm prints)| Dolby (35 mm prints) (as Dolby Stereo)| Dolby Digital
+Color: Color (Technicolor)
+Aspect Ratio: 1.37 : 1

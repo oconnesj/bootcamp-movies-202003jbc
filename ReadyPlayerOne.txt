@@ -14,3 +14,9 @@ Budget:$175,000,000 (estimated)
 Opening Weekend USA: $41,764,050, 1 April 2018
 Gross USA: $137,690,172
 Cumulative Worldwide Gross: $582,890,172 
+
+Technical Specs
+Runtime: 140 min
+Sound Mix: Dolby Digital | Auro 11.1 | Dolby Atmos | SDDS | Sonics-DDP | DTS (DTS: X)
+Color: Color
+Aspect Ratio: 2.39 : 1

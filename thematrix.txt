@@ -13,3 +13,9 @@ Budget:$63,000,000 (estimated)
 Opening Weekend USA: $27,788,331, 4 April 1999
 Gross USA: $171,479,930
 Cumulative Worldwide Gross: $465,343,787
+
+Technical Specs
+Runtime: 136 min
+Sound Mix: DTS (Digital DTS Sound)| Dolby Digital | SDDS | Dolby Atmos
+Color: Color
+Aspect Ratio: 2.39 : 1

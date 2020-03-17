@@ -13,3 +13,9 @@ Budget:$10,000,000 (estimated)
 Opening Weekend USA: $6,167,651, 20 February 1989
 Gross USA: $40,485,039
 Cumulative Worldwide Gross: $40,485,039
+
+Technical Specs
+Runtime: 90 min
+Sound Mix: Dolby
+Color: Color (Technicolor)
+Aspect Ratio: 2.35 : 1
